@@ -48,7 +48,7 @@ The purpose of this project is to **leverage interactive data visualization tool
 | ![image](https://github.com/manuel-sosa/project3_data_viz/blob/main/06_Miscellaneous/postgresql-logo2.png) | PostgreSQL |
 
 ## Data Sources
-Our dataset comprises over 400 records focusing on [specific data aspect, e.g., hospital revenue mix in California]. The data is stored and managed using [Database Technology].
+Our dataset comprises over 400 records focusing on hospital revenue mix in California reported in 2022. The data is stored and managed using PostgreSQL.
 
 | Data Source  | Usage |
 | ------------- | ------------- |

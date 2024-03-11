@@ -38,14 +38,14 @@ The purpose of this project is to **leverage interactive data visualization tool
 - *Key Findings*.
 
 ## Tech Stack
-| Teck Stack | Usage |
+| Tech Sack | Usage |
 | ------------- | ------------- |
-|![image](https://github.com/manuel-sosa/project3_data_viz/blob/main/06_Miscellaneous/matplotlib.png)  | Matplotlib |
-| ![image](https://github.com/manuel-sosa/project3_data_viz/blob/main/06_Miscellaneous/pandas.png) | Pandas |
-| ![image](https://github.com/manuel-sosa/project3_data_viz/blob/main/06_Miscellaneous/plotly.png) | Plotly |
-| ![image](https://github.com/manuel-sosa/project3_data_viz/blob/main/06_Miscellaneous/seaborn.png) | Seaborn |
-| ![image](https://github.com/manuel-sosa/project3_data_viz/blob/main/06_Miscellaneous/leaflet.png) | Leaflet |
-| ![image](https://github.com/manuel-sosa/project3_data_viz/blob/main/06_Miscellaneous/postgresql-logo2.png) | PostgreSQL |
+|![image](https://github.com/manuel-sosa/project3_data_viz/blob/main/06_Miscellaneous/matplotlib.png)  | Static visualizations |
+| ![image](https://github.com/manuel-sosa/project3_data_viz/blob/main/06_Miscellaneous/pandas.png) | Data analysis for Python  |
+| ![image](https://github.com/manuel-sosa/project3_data_viz/blob/main/06_Miscellaneous/plotly.png) | Interactive online graphing library  |
+| ![image](https://github.com/manuel-sosa/project3_data_viz/blob/main/06_Miscellaneous/seaborn.png) | Data visualization library |
+| ![image](https://github.com/manuel-sosa/project3_data_viz/blob/main/06_Miscellaneous/leaflet.png) | Mobile-friendly interactive maps JavaScript library |
+| ![image](https://github.com/manuel-sosa/project3_data_viz/blob/main/06_Miscellaneous/postgresql-logo2.png) | Object-relational database system |
 
 ## Data Sources
 Our dataset comprises over 400 records focusing on hospital revenue mix in California reported in 2022. The data is stored and managed using PostgreSQL.

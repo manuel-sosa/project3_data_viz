@@ -45,7 +45,7 @@ The purpose of this project is to **leverage interactive data visualization tool
 | ![image](https://github.com/manuel-sosa/project3_data_viz/blob/main/06_Miscellaneous/plotly.png) | Plotly |
 | ![image](https://github.com/manuel-sosa/project3_data_viz/blob/main/06_Miscellaneous/seaborn.png) | Seaborn |
 | ![image](https://github.com/manuel-sosa/project3_data_viz/blob/main/06_Miscellaneous/leaflet.png) | Leaflet |
-| ![image](https://github.com/manuel-sosa/project3_data_viz/blob/main/06_Miscellaneous/postgresql-logo.png) | PostgreSQL |
+| ![image](https://github.com/manuel-sosa/project3_data_viz/blob/main/06_Miscellaneous/postgresql-logo2.png) | PostgreSQL |
 
 ## Data Sources
 Our dataset comprises over 400 records focusing on [specific data aspect, e.g., hospital revenue mix in California]. The data is stored and managed using [Database Technology].

@@ -48,17 +48,17 @@ The purpose of this project is to **leverage interactive data visualization tool
 | ![image](https://github.com/manuel-sosa/project3_data_viz/blob/main/06_Miscellaneous/postgresql-logo2.png) | Object-relational database system |
 
 ## Data Sources
-Our dataset comprises over 400 records focusing on hospital revenue mix in California reported in 2022. The data is stored and managed using PostgreSQL.
+Our dataset comprises over **400 records** focusing on hospital revenue mix in California reported in 2022. The data is stored and managed using PostgreSQL.
 
 | Data Source  | Usage |
 | ------------- | ------------- |
-| [Hospital Annual Financial Data - State of California](https://catalog.data.gov/dataset/hospital-annual-financial-data-selected-data-pivot-tables-a3e84)  | Individual hospitals and hospital systems facility-level data |
+| [Hospital Annual Financial Data - State of California](https://catalog.data.gov/dataset/hospital-annual-financial-data-selected-data-pivot-tables-a3e84)  | Individual hospitals and healthcare systems facility-level data |
 
 ## Notebook/Script
-Included in this repository are **Jupyter Notebooks and/or command-line Python scripts** that detail our data processing, analysis, and visualization creation steps. Each script is documented to explain the processes and methodologies applied.
+Included in this repository are **Jupyter Notebooks and/or command-line JavaSripts** that detail our data processing, analysis, and visualization creation steps. Each script is documented to explain the processes and methodologies applied.
 
 ## Visualizations
 IN PROGRESS
 
-## Conclusions
+## Conclusion
 IN PROGRESS

@@ -4,11 +4,11 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Pay Type Mix, %</title>
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script> <!-- Including Chart.js -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script> 
 </head>
 <body>
 
-<div style="width: 600px;">
+<div style="width: 800px;">
     <canvas id="payTypeMixChart"></canvas>
 </div>
 
@@ -56,6 +56,9 @@
                 title: {
                     display: true,
                     text: 'Pay Type Mix, %',
+                    font: {
+                    size: 18
+                    },
                     padding: {
                         bottom: 5 // reduced padding at the bottom of the title
                     }

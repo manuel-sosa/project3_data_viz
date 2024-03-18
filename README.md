@@ -58,10 +58,10 @@ Our dataset comprises over **400 records** focusing on hospital revenue mix in C
 Included in this repository are **Jupyter Notebooks and/or command-line JavaScripts** that detail our data processing, analysis, and visualization creation steps. Each script is documented to explain the processes and methodologies applied.
 
 ## Visualizations
-1. Where are the *Top 10/Bottom 10 hospitals and healthcare systems located*?
+### 1. Where are the *Top 10/Bottom 10 hospitals and healthcare systems located*?
 
 
-2. What is the mix of *pay type*? 
+### 2. What is the mix of *pay type*? 
 
 ![image](https://github.com/manuel-sosa/project3_data_viz/blob/main/07_Miscellaneous/pay-type-mix.png)
 **Net Patient Revenue by Payer Category: Pay Type Mix, %**
@@ -71,7 +71,7 @@ Included in this repository are **Jupyter Notebooks and/or command-line JavaScri
 **Net Patient Revenue by Payer Category: Pay Type Mix by Facility, %**
 
 
-3. What is the breakdown of *type of care*?
+### 3. What is the breakdown of *type of care*?
 
 
 ## Conclusion

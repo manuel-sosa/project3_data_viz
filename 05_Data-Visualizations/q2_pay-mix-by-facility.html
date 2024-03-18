@@ -3,13 +3,13 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Pay Type Mix, % by Facility</title>
+<title>Net Patient Revenue by Payer Category: Pay Type Mix by Facility, %</title>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <style>
 
 #payTypePieChart {
     max-width: 1000px;
-    max-height: 400px;
+    max-height: 500px;
 }
 </style>
 </head>
@@ -909,18 +909,18 @@ facilities.forEach((facility) => {
 // Data structure for the pie chart
 const data = {
     labels: [
-        'Net Patient Revenue Medicare-Traditional',
-        'Net Patient Revenue Medicare-Managed Care',
-        'Net Patient Revenue Medi-Cal-Traditional',
-        'Net Patient Revenue Medi-Cal-Managed Care',
-        'Net Patient Revenue County Indigent Programs-Traditional & Man. Care',
-        'Net Patient Revenue Other Third Parties-Traditional',
-        'Net Patient Revenue Other Third Parties-Managed Care',
-        'Net Patient Revenue Other Indigent',
-        'Net Patient Revenue Other Payers'
+        'Other Third Parties-Managed Care',
+        'Medi-Cal-Managed Care',
+        'Medicare-Traditional',
+        'Medicare-Managed Care',
+        'Medi-Cal-Traditional',
+        'Other Third Parties-Traditional',
+        'Other Payers',
+        'County Indigent Programs-Tradi. & Man. Care',
+        'Other Indigent'
     ],
     datasets: [{
-        label: 'Pay Type Mix, %',
+        label: 'Net Patient Revenue by Payer Category: Pay Type Mix by Facility, %',
         // First facility's data
         data: payMixData[facilities[0]],
         backgroundColor: [
@@ -951,7 +951,7 @@ let pieChart = new Chart(document.getElementById('payTypePieChart').getContext('
             },
             title: {
                 display: true,
-                text: 'Pay Type Mix, %',
+                text: 'Net Patient Revenue by Payer Category: Pay Type Mix by Facility, %',
                 font: {
                     size: 18
                 }

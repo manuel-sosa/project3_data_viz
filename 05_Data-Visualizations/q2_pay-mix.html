@@ -3,12 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Pay Type Mix, %</title>
+<title>Net Patient Revenue by Payer Category: Pay Type Mix, %</title>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script> 
 </head>
 <body>
 
-<div style="width: 800px;">
+<div style="width: 750px;">
     <canvas id="payTypeMixChart"></canvas>
 </div>
 
@@ -30,8 +30,8 @@
                 'Other Indigent'
             ],
             datasets: [{
-                label: 'Pay Type Mix, %',
-                data: [40, 17, 16, 12, 10, 4, 1, 0, 0],
+                label: 'Net Patient Revenue by Payer Category: Pay Type Mix, %',
+                data: [40.09, 16.74, 16.30, 11.51, 9.68, 4.26, .94, .39, .09],
                 backgroundColor: [
                     '#3366CC',
                     '#DC3912',
@@ -55,7 +55,7 @@
             plugins: {
                 title: {
                     display: true,
-                    text: 'Pay Type Mix, %',
+                    text: 'Net Patient Revenue by Payer Category: Pay Type Mix, %',
                     font: {
                     size: 18
                     },
@@ -67,8 +67,8 @@
                     display: true,
                     position: 'right',
                     labels: {
-                        boxWidth: 10,
-                        padding: 20
+                        boxWidth: 30,
+                        padding: 15
                     }
                 },
                 tooltip: {

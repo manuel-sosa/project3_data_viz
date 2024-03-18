@@ -20,7 +20,6 @@ We evaluate the revenue mix of hospitals in California, **analyzing data from bo
 8. [Visualizations](#visualizations)
 9. [Ethical Considerations](#ethical-considerations)
 10. [Data Limitations](#data-limitations) 
-11. [Conclusions](#conclusions)
 
 ## Purpose
 The purpose of this project is to **leverage interactive data visualization tools and libraries** to evaluate the revenue mix of California-based hospitals and healthcare systems' location and financial information. By integrating technologies and methods not previously covered in class, we aim to **expand our technical repertoire and provide users with interactive and insightful experiences**.
@@ -98,5 +97,3 @@ The data represents one specific year, 2022. Without time-based data, it's chall
 
 **Potential for Misinterpretation:**
 The charts do not provide understanding on the underlying factors, such as policy changes or patient demographics, that could affect both net revenue and total asset size.
-
-## Conclusion

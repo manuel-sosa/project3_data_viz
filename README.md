@@ -7,7 +7,7 @@
 ## Summary
 In this project, we aim to provide insightful location and financial information analysis through interactive databases and data visualizations, utilizing a combination of **Python and JavaScript libraries**. 
 
-We evaluate the revenue mix of hospitals in California, **analyzing data from both the largest and smallest hospitals based on the size of their balance sheets or gross assets**. Through this analysis, we aim to uncover trends and insights that can inform the user about the current healthcare system operations in California.
+We evaluate the revenue mix of hospitals in California, **analyzing data from both the largest and smallest hospitals based on the size of their total assets**. Through this analysis, we aim to uncover trends and insights that can inform the user about the current healthcare system operations in California.
 
 ## Table of Contents
 1. [Summary](#summary)
@@ -23,7 +23,7 @@ We evaluate the revenue mix of hospitals in California, **analyzing data from bo
 The purpose of this project is to **leverage interactive data visualization tools and libraries** to evaluate the revenue mix of California-based hospitals and healthcare systems' location and financial information. By integrating technologies and methods not previously covered in class, we aim to **expand our technical repertoire and provide users with interactive and insightful experiences**.
 
 **We aim to answer these three basic questions found in the data:**
-1. Where are the *Top 10/Bottom 10 hospitals and healthcare systems located*?
+1. Where are the *10 largest and 10 smallest hospitals and healthcare systems located*?
 
 2. What is the mix of *pay type*? 
 
@@ -59,10 +59,10 @@ Included in this repository are **Jupyter Notebooks and/or command-line JavaScri
 
 ## Visualizations
 ### 1. Where are the *Top 10/Bottom 10 hospitals and healthcare systems located*?
-
+![image](https://github.com/manuel-sosa/project3_data_viz/blob/main/07_Miscellaneous/hospitals-map.png)
+**10 Largest and 10 Smallest California Hospitals by Total Revenue**
 
 ### 2. What is the mix of *pay type*? 
-
 ![image](https://github.com/manuel-sosa/project3_data_viz/blob/main/07_Miscellaneous/pay-type-mix.png)
 **Net Patient Revenue by Payer Category: Pay Type Mix, %**
 
@@ -70,9 +70,9 @@ Included in this repository are **Jupyter Notebooks and/or command-line JavaScri
 ![image](https://github.com/manuel-sosa/project3_data_viz/blob/main/07_Miscellaneous/pay-type-mix-by-facility.png)
 **Net Patient Revenue by Payer Category: Pay Type Mix by Facility, %**
 
-
 ### 3. What is the breakdown of *type of care*?
-
+![image](https://github.com/manuel-sosa/project3_data_viz/blob/main/07_Miscellaneous/type-of-care.png)
+**Type of Care Provided Breakdown**
 
 ## Conclusion
 IN PROGRESS
